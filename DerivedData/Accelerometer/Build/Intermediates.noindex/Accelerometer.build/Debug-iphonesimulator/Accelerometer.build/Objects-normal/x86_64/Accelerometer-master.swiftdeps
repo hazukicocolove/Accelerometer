@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "c333ad53cfa067b6e53ca2797ac02b96"
+build_time: [1630875473, 709568000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Accelerometer/Accelerometer/ResultViewController.swift": [1630875473, 526047663]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Accelerometer/Accelerometer/GameViewController.swift": [1630875425, 936413491]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Accelerometer/Accelerometer/ViewController.swift": [1630872931, 157672563]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Accelerometer/Accelerometer/AppDelegate.swift": [1630870683, 924254984]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Accelerometer/Accelerometer/SceneDelegate.swift": [1630870683, 932130852]

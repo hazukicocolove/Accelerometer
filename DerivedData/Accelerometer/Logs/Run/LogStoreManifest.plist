@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0D7D7840-466F-484D-947C-0BD7B1032B9E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D7D7840-466F-484D-947C-0BD7B1032B9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652567667.45267498</real>
+			<key>timeStoppedRecording</key>
+			<real>652567864.71228898</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>0D7D7840-466F-484D-947C-0BD7B1032B9E</string>
+		</dict>
+		<key>32DC8A15-26BD-47DB-A841-B0919C963881</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>32DC8A15-26BD-47DB-A841-B0919C963881.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652567865.52921498</real>
+			<key>timeStoppedRecording</key>
+			<real>652568241.696334</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>32DC8A15-26BD-47DB-A841-B0919C963881</string>
+		</dict>
+		<key>35A6928A-ABA2-4F38-88E6-4159D2F01AFC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>35A6928A-ABA2-4F38-88E6-4159D2F01AFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566741.25435805</real>
+			<key>timeStoppedRecording</key>
+			<real>652566983.46438301</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>35A6928A-ABA2-4F38-88E6-4159D2F01AFC</string>
+		</dict>
+		<key>3F20403A-19A7-4C04-AF96-399F1D9E4D5A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F20403A-19A7-4C04-AF96-399F1D9E4D5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566694.25763595</real>
+			<key>timeStoppedRecording</key>
+			<real>652566729.99258602</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>3F20403A-19A7-4C04-AF96-399F1D9E4D5A</string>
+		</dict>
+		<key>476D1BD5-67B8-41A1-BF42-489FB0F8A97F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>476D1BD5-67B8-41A1-BF42-489FB0F8A97F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566730.38863099</real>
+			<key>timeStoppedRecording</key>
+			<real>652566740.956025</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>476D1BD5-67B8-41A1-BF42-489FB0F8A97F</string>
+		</dict>
+		<key>5C708F64-C527-46BC-8CDA-18B4F4531A6C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C708F64-C527-46BC-8CDA-18B4F4531A6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566280.70679295</real>
+			<key>timeStoppedRecording</key>
+			<real>652566393.46960104</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>5C708F64-C527-46BC-8CDA-18B4F4531A6C</string>
+		</dict>
+		<key>69B006B5-98DE-4361-BBFE-4E2FAEA0308E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>69B006B5-98DE-4361-BBFE-4E2FAEA0308E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652568242.45553005</real>
+			<key>timeStoppedRecording</key>
+			<real>652568273.69025898</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>69B006B5-98DE-4361-BBFE-4E2FAEA0308E</string>
+		</dict>
+		<key>C1C3061B-8468-402B-A572-B17A47629DCD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1C3061B-8468-402B-A572-B17A47629DCD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652567046.00670195</real>
+			<key>timeStoppedRecording</key>
+			<real>652567664.65714097</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>C1C3061B-8468-402B-A572-B17A47629DCD</string>
+		</dict>
+		<key>E1F1A1DF-EF31-445C-957E-5EFAF369EA28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1F1A1DF-EF31-445C-957E-5EFAF369EA28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566984.05089605</real>
+			<key>timeStoppedRecording</key>
+			<real>652567045.58560801</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>E1F1A1DF-EF31-445C-957E-5EFAF369EA28</string>
+		</dict>
+		<key>F1417E87-1458-406D-9BD5-0AB09A5B5B2D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F1417E87-1458-406D-9BD5-0AB09A5B5B2D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Accelerometer</string>
+			<key>timeStartedRecording</key>
+			<real>652566393.87806797</real>
+			<key>timeStoppedRecording</key>
+			<real>652566691.27883804</real>
+			<key>title</key>
+			<string>Run Accelerometer</string>
+			<key>uniqueIdentifier</key>
+			<string>F1417E87-1458-406D-9BD5-0AB09A5B5B2D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
